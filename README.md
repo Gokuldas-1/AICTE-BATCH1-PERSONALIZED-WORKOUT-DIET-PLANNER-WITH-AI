@@ -1,40 +1,141 @@
-# FitAI Planner
+# Personalized Workout & Diet Planner with AI
 
-Personalized Workout & Diet Planner powered by Google Gemini AI.
+## Overview
 
-## Setup
+The Personalized Workout & Diet Planner with AI is an intelligent fitness management application developed using Python and Streamlit. The system generates customized workout routines and diet plans based on user health data, fitness goals, dietary preferences, lifestyle, and budget constraints.
 
-1. Create a Python virtual environment (recommended):
+Unlike traditional fitness applications that provide generic recommendations, this platform uses AI to deliver personalized and practical fitness guidance for each user.
 
-```powershell
-python -m venv .venv
-.\.venv\Scripts\Activate.ps1
+---
+
+## Features
+
+- User Profile Management
+- BMI Calculator
+- Personalized Workout Planning
+- Personalized Diet Recommendations
+- AI-Powered Fitness Suggestions
+- Budget-Friendly Meal Planning
+- Progress Tracking
+- PDF Report Generation
+- SQLite Database Integration
+- Streamlit Interactive Dashboard
+
+---
+
+## Technologies Used
+
+### Frontend
+- Streamlit
+
+### Backend
+- Python
+
+### Database
+- SQLite
+
+### Libraries
+- Pandas
+- NumPy
+- Matplotlib
+- Streamlit
+- Python-dotenv
+
+---
+
+## Project Structure
+
+```text
+DietPlan/
+│
+├── app.py
+├── requirements.txt
+├── README.md
+├── .env.example
+│
+├── assets/
+├── config/
+├── database/
+├── data/
+└── modules/
 ```
 
-2. Install dependencies:
+---
 
-```powershell
+## Installation
+
+### Clone Repository
+
+```bash
+git clone https://github.com/Gokuldas-1/AICTE-BATCH1-PERSONALIZED-WORKOUT-DIET-PLANNER-WITH-AI.git
+```
+
+### Create Virtual Environment
+
+```bash
+python -m venv .venv
+```
+
+### Activate Virtual Environment
+
+Windows:
+
+```bash
+.\.venv\Scripts\activate
+```
+
+### Install Dependencies
+
+```bash
 pip install -r requirements.txt
 ```
 
-3. Add your Gemini API key:
+---
 
-- Copy `.env.example` to `.env` or edit the existing `.env` file and set:
+## Configure API Key
 
+Create a `.env` file in the project root and add:
+
+```env
+GROQ_API_KEY=your_api_key_here
 ```
-GEMINI_API_KEY=your_gemini_api_key_here
-```
 
-4. Run the app with Streamlit:
+Note:
+- Do not upload `.env` to GitHub.
+- API keys are stored securely in local environment files.
 
-```powershell
+---
+
+## Run Application
+
+```bash
 streamlit run app.py
 ```
 
-5. Open the browser at the local URL shown by Streamlit (usually `http://localhost:8501`).
+After running, open:
 
-## Notes
+```text
+http://localhost:8501
+```
 
-- The app uses Google Gemini via the `google-generativeai` package. Provide a valid `GEMINI_API_KEY` to enable AI features.
-- Profile data and logs are stored in a local SQLite database at `data/fitai.db`.
-- If you want me to run the app locally and verify plan generation, tell me and I will start it in the terminal.
+---
+
+## Expected Outcome
+
+The system provides:
+
+- Personalized workout schedules
+- Customized diet plans
+- BMI analysis
+- Progress monitoring
+- AI-generated fitness recommendations
+
+---
+
+## Author
+
+Gokuldas M
+
+B.Tech Information Technology
+
+Cochin University of Science and Technology (CUSAT)
