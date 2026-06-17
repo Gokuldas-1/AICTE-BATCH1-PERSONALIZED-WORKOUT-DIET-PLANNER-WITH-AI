@@ -1,0 +1,152 @@
+[
+  {
+    "name": "Push-ups", "category": "Upper Body", "equipment": ["No Equipment (Bodyweight only)", "Resistance Bands", "Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Chest", "Triceps", "Shoulders"],
+    "calories_per_min": 7, "instructions": "Place hands shoulder-width apart. Keep body straight. Lower chest to floor and push back up."
+  },
+  {
+    "name": "Pull-ups", "category": "Upper Body", "equipment": ["Full Home Gym", "Commercial Gym Access"],
+    "level": ["Intermediate", "Advanced"], "muscles": ["Back", "Biceps"],
+    "calories_per_min": 8, "instructions": "Hang from bar with overhand grip. Pull chest to bar. Lower slowly."
+  },
+  {
+    "name": "Dumbbell Rows", "category": "Upper Body", "equipment": ["Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Back", "Biceps"],
+    "calories_per_min": 6, "instructions": "Brace on bench. Row dumbbell to hip. Keep back flat."
+  },
+  {
+    "name": "Dumbbell Shoulder Press", "category": "Upper Body", "equipment": ["Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Shoulders", "Triceps"],
+    "calories_per_min": 6, "instructions": "Press dumbbells overhead from shoulder height. Lock out arms."
+  },
+  {
+    "name": "Tricep Dips", "category": "Upper Body", "equipment": ["No Equipment (Bodyweight only)", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Triceps", "Chest"],
+    "calories_per_min": 7, "instructions": "Use chair or parallel bars. Lower body with elbows at 90 degrees. Push up."
+  },
+  {
+    "name": "Resistance Band Bicep Curl", "category": "Upper Body", "equipment": ["Resistance Bands"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Biceps"],
+    "calories_per_min": 4, "instructions": "Stand on band. Curl both hands to shoulder height. Squeeze at top."
+  },
+  {
+    "name": "Squats (Bodyweight)", "category": "Lower Body", "equipment": ["No Equipment (Bodyweight only)", "Resistance Bands", "Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "calories_per_min": 8, "instructions": "Feet shoulder-width apart. Lower until thighs parallel. Drive through heels."
+  },
+  {
+    "name": "Dumbbell Goblet Squat", "category": "Lower Body", "equipment": ["Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Quads", "Glutes", "Core"],
+    "calories_per_min": 8, "instructions": "Hold dumbbell at chest. Squat deep with chest up."
+  },
+  {
+    "name": "Lunges", "category": "Lower Body", "equipment": ["No Equipment (Bodyweight only)", "Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Quads", "Glutes", "Hamstrings"],
+    "calories_per_min": 8, "instructions": "Step forward, lower back knee to near floor. Alternate legs."
+  },
+  {
+    "name": "Glute Bridge", "category": "Lower Body", "equipment": ["No Equipment (Bodyweight only)", "Resistance Bands", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Glutes", "Hamstrings"],
+    "calories_per_min": 5, "instructions": "Lie on back, knees bent. Push hips up, squeeze glutes at top."
+  },
+  {
+    "name": "Calf Raises", "category": "Lower Body", "equipment": ["No Equipment (Bodyweight only)", "Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Calves"],
+    "calories_per_min": 5, "instructions": "Stand with feet hip-width. Rise onto toes slowly. Lower controlled."
+  },
+  {
+    "name": "Wall Sit", "category": "Lower Body", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Quads", "Glutes"],
+    "calories_per_min": 6, "instructions": "Lean back against wall. Lower until thighs are parallel to floor. Hold."
+  },
+  {
+    "name": "Plank", "category": "Core", "equipment": ["No Equipment (Bodyweight only)", "Resistance Bands", "Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Core", "Shoulders"],
+    "calories_per_min": 5, "instructions": "Hold push-up position on forearms. Keep body in straight line. Don't drop hips."
+  },
+  {
+    "name": "Crunches", "category": "Core", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner"], "muscles": ["Abs"],
+    "calories_per_min": 5, "instructions": "Lie on back, knees bent. Curl shoulders toward knees. Don't pull neck."
+  },
+  {
+    "name": "Russian Twists", "category": "Core", "equipment": ["No Equipment (Bodyweight only)", "Dumbbells at Home"],
+    "level": ["Intermediate"], "muscles": ["Obliques", "Abs"],
+    "calories_per_min": 6, "instructions": "Sit at 45 degrees. Twist torso side to side. Add weight for challenge."
+  },
+  {
+    "name": "Mountain Climbers", "category": "Core", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Intermediate", "Advanced"], "muscles": ["Core", "Cardio"],
+    "calories_per_min": 10, "instructions": "In push-up position. Drive knees to chest alternately at speed."
+  },
+  {
+    "name": "Leg Raises", "category": "Core", "equipment": ["No Equipment (Bodyweight only)", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Intermediate"], "muscles": ["Lower Abs"],
+    "calories_per_min": 5, "instructions": "Lie flat. Raise legs to 90 degrees. Lower slowly without touching floor."
+  },
+  {
+    "name": "Jumping Jacks", "category": "Cardio", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Full Body", "Cardio"],
+    "calories_per_min": 9, "instructions": "Jump feet wide while raising arms overhead. Return to start. Repeat rapidly."
+  },
+  {
+    "name": "Burpees", "category": "Cardio", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Intermediate", "Advanced"], "muscles": ["Full Body", "Cardio"],
+    "calories_per_min": 12, "instructions": "Squat, kick feet back, do push-up, jump feet in, jump up with arms overhead."
+  },
+  {
+    "name": "High Knees", "category": "Cardio", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Cardio", "Core"],
+    "calories_per_min": 10, "instructions": "Jog in place bringing knees to hip height alternately. Pump arms."
+  },
+  {
+    "name": "Jump Rope (skipping)", "category": "Cardio", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Cardio", "Calves"],
+    "calories_per_min": 11, "instructions": "Turn rope with wrists. Jump with both feet. Find your rhythm."
+  },
+  {
+    "name": "Brisk Walking", "category": "Cardio", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner"], "muscles": ["Cardio"],
+    "calories_per_min": 5, "instructions": "Walk at 5-6 km/h. Swing arms. Maintain upright posture."
+  },
+  {
+    "name": "Jogging", "category": "Cardio", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate"], "muscles": ["Cardio", "Legs"],
+    "calories_per_min": 8, "instructions": "Run at comfortable pace (7-9 km/h). Land midfoot. Relax shoulders."
+  },
+  {
+    "name": "Dumbbell Deadlift", "category": "Compound", "equipment": ["Dumbbells at Home", "Full Home Gym", "Commercial Gym Access"],
+    "level": ["Intermediate", "Advanced"], "muscles": ["Hamstrings", "Back", "Glutes"],
+    "calories_per_min": 8, "instructions": "Hinge at hips. Keep back flat. Drive hips forward to stand."
+  },
+  {
+    "name": "Superman Hold", "category": "Back", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner"], "muscles": ["Lower Back", "Glutes"],
+    "calories_per_min": 4, "instructions": "Lie face down. Lift arms and legs simultaneously. Squeeze back. Hold 2 seconds."
+  },
+  {
+    "name": "Cat-Cow Stretch", "category": "Flexibility", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Spine", "Core"],
+    "calories_per_min": 2, "instructions": "On all fours. Arch back up (cat), then dip belly down (cow). Flow slowly."
+  },
+  {
+    "name": "Child's Pose", "category": "Flexibility", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Back", "Hips"],
+    "calories_per_min": 1, "instructions": "Kneel, sit back on heels, extend arms forward. Hold and breathe deeply."
+  },
+  {
+    "name": "Hip Flexor Stretch", "category": "Flexibility", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Beginner", "Intermediate", "Advanced"], "muscles": ["Hip Flexors"],
+    "calories_per_min": 1, "instructions": "Lunge forward, drop back knee. Push hips forward. Hold 30 seconds each side."
+  },
+  {
+    "name": "Bicycle Crunches", "category": "Core", "equipment": ["No Equipment (Bodyweight only)"],
+    "level": ["Intermediate"], "muscles": ["Abs", "Obliques"],
+    "calories_per_min": 6, "instructions": "Lie on back. Alternate bringing elbow to opposite knee while cycling legs."
+  },
+  {
+    "name": "Box Jumps", "category": "Plyometric", "equipment": ["Full Home Gym", "Commercial Gym Access"],
+    "level": ["Intermediate", "Advanced"], "muscles": ["Quads", "Glutes", "Calves"],
+    "calories_per_min": 12, "instructions": "Stand before box. Jump explosively landing softly with bent knees. Step down."
+  }
+]
